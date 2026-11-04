@@ -1,0 +1,19 @@
+# Java build output
+*.class
+*.jar
+/bin/
+/out/
+/target/
+/build/
+
+# IDE and editor files
+/.vscode/
+/.idea/
+/.settings/
+/.project
+/.classpath
+/.factorypath
+
+# Operating system files
+.DS_Store
+Thumbs.db
